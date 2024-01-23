@@ -2,6 +2,7 @@
 /vendor_dlkm/lib/modules/icnss2.ko: /vendor_dlkm/lib/modules/device_management_service_v01.ko /vendor_dlkm/lib/modules/wlan_firmware_service_v01.ko /vendor_dlkm/lib/modules/hwid.ko
 /vendor_dlkm/lib/modules/rdbg.ko:
 /vendor_dlkm/lib/modules/hwid.ko:
+/vendor_dlkm/lib/modules/mmhardware_others.ko:
 /vendor_dlkm/lib/modules/wlan_firmware_service_v01.ko:
 /vendor_dlkm/lib/modules/device_management_service_v01.ko:
 /vendor_dlkm/lib/modules/cnss2.ko: /vendor_dlkm/lib/modules/device_management_service_v01.ko /vendor_dlkm/lib/modules/wlan_firmware_service_v01.ko /vendor_dlkm/lib/modules/hwid.ko

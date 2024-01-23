@@ -2,6 +2,7 @@ llcc_perfmon.ko
 icnss2.ko
 rdbg.ko
 hwid.ko
+mmhardware_others.ko
 wlan_firmware_service_v01.ko
 device_management_service_v01.ko
 cnss2.ko
