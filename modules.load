@@ -56,7 +56,7 @@ hid-aksys.ko
 wlan.ko
 slimbus.ko
 slimbus-ngd.ko
-msm_drm.ko
+camera.ko
 pinctrl_wcd_dlkm.ko
 pinctrl_lpi_dlkm.ko
 swr_dlkm.ko
@@ -90,8 +90,8 @@ swr_haptics_dlkm.ko
 us_prox_iio.ko
 platform_dlkm.ko
 machine_dlkm.ko
-camera.ko
 rmnet_offload.ko
 rmnet_shs.ko
+msm_drm.ko
 rmnet_core.ko
 rmnet_ctl.ko
