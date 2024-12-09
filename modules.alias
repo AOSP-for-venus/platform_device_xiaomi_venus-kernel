@@ -38,8 +38,8 @@ alias i2c:qm1d1c0042 qm1d1c0042
 alias i2c:qm1d1b0004 qm1d1b0004
 alias i2c:m88rs6000t m88rs6000t
 alias i2c:tda18250 tda18250
-alias of:N*T*Cir-spi ir_spi
-alias of:N*T*Cir-spiC* ir_spi
+alias of:N*T*Cir-spi-led ir_spi
+alias of:N*T*Cir-spi-ledC* ir_spi
 alias i2c:rtc6226 radio_i2c_rtc6226_qca
 alias hid:b0003g*v00000A12p00001000 hid_aksys
 alias hid:b0003g*v00001234p00001000 hid_aksys
