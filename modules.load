@@ -6,6 +6,7 @@ mmhardware_others.ko
 wlan_firmware_service_v01.ko
 device_management_service_v01.ko
 cnss2.ko
+g_webcam.ko
 fts_touch_spi.ko
 xiaomi_touch.ko
 goodix_fod.ko
