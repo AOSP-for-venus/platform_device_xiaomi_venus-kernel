@@ -164,12 +164,12 @@ alias of:N*T*Cqcom,bolero-codec bolero_cdc_dlkm
 alias of:N*T*Cqcom,bolero-codecC* bolero_cdc_dlkm
 alias of:N*T*Cqcom,bolero-clk-rsc-mngr bolero_cdc_dlkm
 alias of:N*T*Cqcom,bolero-clk-rsc-mngrC* bolero_cdc_dlkm
-alias i2c:cs35l40 cs35l41_dlkm
-alias i2c:cs35l41 cs35l41_dlkm
 alias of:N*T*Ccirrus,cs35l40 cs35l41_dlkm
 alias of:N*T*Ccirrus,cs35l40C* cs35l41_dlkm
 alias of:N*T*Ccirrus,cs35l41 cs35l41_dlkm
 alias of:N*T*Ccirrus,cs35l41C* cs35l41_dlkm
+alias i2c:cs35l40 cs35l41_dlkm
+alias i2c:cs35l41 cs35l41_dlkm
 alias of:N*T*Cqcom,audio-ref-clk wcd9xxx_dlkm
 alias of:N*T*Cqcom,audio-ref-clkC* wcd9xxx_dlkm
 alias of:N*T*Cqcom,msm-ext-disp-audio-codec-rx hdmi_dlkm
