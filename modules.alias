@@ -44,6 +44,10 @@ alias i2c:rtc6226 radio_i2c_rtc6226_qca
 alias hid:b0003g*v00000A12p00001000 hid_aksys
 alias hid:b0003g*v00001234p00001000 hid_aksys
 alias hid:b0005g*v00000A12p00000016 hid_aksys
+alias of:N*T*Candroid,qcacld_wlan-wonder wlan
+alias of:N*T*Candroid,qcacld_wlan-wonderC* wlan
+alias of:N*T*Cgoogle,wonder-drv-v1 wonder
+alias of:N*T*Cgoogle,wonder-drv-v1C* wonder
 alias of:N*T*Cqcom,cam-req-mgr camera
 alias of:N*T*Cqcom,cam-req-mgrC* camera
 alias of:N*T*Cqcom,cam-sync camera

@@ -55,6 +55,7 @@ qcom_edac.ko
 leds-qti-flash.ko
 hid-aksys.ko
 wlan.ko
+wonder.ko
 slimbus.ko
 slimbus-ngd.ko
 camera.ko
